@@ -22,7 +22,7 @@
  > npm install
  5. Run npm run build
  > npm run build
- 6. Create database admin-panel like in .env
+ 6. Create database admin-panel like in .env and adjust the database connection
  > DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
