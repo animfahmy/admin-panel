@@ -1,5 +1,3 @@
-
-
 # Admin Panel
 
 ## System Requirements
@@ -30,6 +28,6 @@
 > Email: test@example.com
 > Password: password
 ## Documentation
-To add flight, click menu Flight on navigation section. Click button Create, and fill the information. Click Create.
-To update flight, on page Flight, click Edit link in the table. Fill the information and click Update.
-To delete flight, on page Flight, click Delete link in the table. Click Yes when confirmation message shown and flight data will be deleted.
+- To add flight, click menu Flight on navigation section. Click button Create, and fill the information. Click Create.
+- To update flight, on page Flight, click Edit link in the table. Fill the information and click Update.
+- To delete flight, on page Flight, click Delete link in the table. Click Yes when confirmation message shown and flight data will be deleted.
