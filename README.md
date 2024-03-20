@@ -22,9 +22,20 @@
  > npm install
  5. Run npm run build
  > npm run build
- 6. Run php artisan serve
+ 6. Create database admin-panel like in .env
+ > DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=admin-panel
+DB_USERNAME=root
+DB_PASSWORD=
+ 7. Run php artisan migrate
+ > php artisan migrate
+ 8. Run php artisan db:seed
+ > php artisan db:seed 
+ 9. Run php artisan serve
  > php artisan serve
- 7. Login account
+ 10. Login account
 > Email: test@example.com
 > Password: password
 ## Documentation
